@@ -1,2 +1,2 @@
 # temperture-converter
-I developed this temperature website using  web development.
+I developed this temperature converter website using  web development.
